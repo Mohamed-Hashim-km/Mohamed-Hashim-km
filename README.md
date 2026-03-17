@@ -41,5 +41,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Hashim-km&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Hashim-km&label=Profile%20Views&color=blue&style=flat&base=230" alt="Profile Views" />
 </div>
