@@ -37,11 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hashim-km&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Hashim-km&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Hashim-km&label=Profile%20Views&color=blue&style=flat&base=230" alt="Profile Views" />
