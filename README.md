@@ -32,11 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hashim-km&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hashim-km&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=1" alt="GitHub Trophies" />
-</div>
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Hashim-km&label=Profile%20Views&color=blue&style=flat&base=230" alt="Profile Views" />
